@@ -2800,7 +2800,7 @@
 				CODE_SIGN_ENTITLEMENTS = iOSProject/iOSProject.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 44HDC9YG72;
+				DEVELOPMENT_TEAM = KLZ6FTC7C7;
 				ENABLE_BITCODE = NO;
 				GCC_PREFIX_HEADER = iOSProject/LMJiOSProject.pch;
 				INFOPLIST_FILE = iOSProject/Info.plist;
@@ -2908,7 +2908,7 @@
 					"-framework",
 					"\"WebKit\"",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = github.com.njhu.iosproject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zzj.WeMeetSDKSwiftDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -2927,7 +2927,7 @@
 				CODE_SIGN_ENTITLEMENTS = iOSProject/iOSProject.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 44HDC9YG72;
+				DEVELOPMENT_TEAM = KLZ6FTC7C7;
 				ENABLE_BITCODE = NO;
 				GCC_PREFIX_HEADER = iOSProject/LMJiOSProject.pch;
 				INFOPLIST_FILE = iOSProject/Info.plist;
@@ -3035,7 +3035,7 @@
 					"-framework",
 					"\"WebKit\"",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = github.com.njhu.iosproject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zzj.WeMeetSDKSwiftDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
